@@ -96,3 +96,52 @@
 
 `9.`
 ![image](https://user-images.githubusercontent.com/91827137/212814291-acac1d40-5b9e-42b3-86e5-ad4342109308.png)
+
+# Logic, Control Flow and Filtering
+`1.`
+![image](https://user-images.githubusercontent.com/91827137/212814471-f89ba40a-90ea-4229-8bd7-d1f69c6603cf.png)
+
+`2.`
+![image](https://user-images.githubusercontent.com/91827137/212814708-586a6c42-58be-4e1b-80dd-eb7e3d8e77ae.png)
+
+`3.`
+![image](https://user-images.githubusercontent.com/91827137/212814861-37269959-05cf-4005-bd51-9e02d07de031.png)
+
+## Boolean Operators
+`1.`
+![image](https://user-images.githubusercontent.com/91827137/212815760-38d69f51-36b2-48f4-9b11-9eddcc187e05.png)
+
+`2.`
+![image](https://user-images.githubusercontent.com/91827137/212816008-267e7e14-d172-49a8-b919-d48d31317f1e.png)
+
+`3.`
+![image](https://user-images.githubusercontent.com/91827137/212816366-d4fd1cf1-df02-4d75-a2e9-cf1c87097372.png)
+
+## else, if, elif
+`1.`
+![image](https://user-images.githubusercontent.com/91827137/212817043-c69ea57a-a72d-47c5-b4c5-09f4e27aa701.png)
+
+`2.`
+![image](https://user-images.githubusercontent.com/91827137/212817251-d31368f0-7622-412b-b680-056dabf32de0.png)
+
+`3.`
+![image](https://user-images.githubusercontent.com/91827137/212817423-d429e4f0-26c7-4561-be1f-4cbf45a0f5fc.png)
+
+`4.`
+![image](https://user-images.githubusercontent.com/91827137/212817544-b95a0d77-91cd-49db-9520-9f488798e5c2.png)
+
+## Filtering Pandas DataFrame
+`1.`
+![image](https://user-images.githubusercontent.com/91827137/212818493-5571488a-f16b-42db-9513-12d4a0a85740.png)
+
+`2.`
+![image](https://user-images.githubusercontent.com/91827137/212818647-397ffc7f-e3e0-4481-9d2d-f778391de2da.png)
+
+`3.`
+![image](https://user-images.githubusercontent.com/91827137/212819092-6c67c8c3-58d2-46e4-b4f5-dd5a3238cd87.png)
+
+`4.`
+![image](https://user-images.githubusercontent.com/91827137/212819470-1a2df4c5-ae5f-4d70-90b2-7f55bca8c3e9.png)
+
+# Loops
+## While loop
