@@ -145,3 +145,38 @@
 
 # Loops
 ## While loop
+`1.`
+![image](https://user-images.githubusercontent.com/91827137/212963703-71c02735-6593-4d74-96ac-553a424c01c3.png)
+
+`2.`
+![image](https://user-images.githubusercontent.com/91827137/212964055-8e149ef2-99fd-4c99-b345-28e27343c992.png)
+
+`3.`
+![image](https://user-images.githubusercontent.com/91827137/212964451-375dd315-bc5e-436d-9313-b39b6c8aa3ee.png)
+
+## For loop
+`1.`
+![image](https://user-images.githubusercontent.com/91827137/212968466-af9da47e-665a-4b1e-979b-c8f34f611e4d.png)
+
+`2.`
+![image](https://user-images.githubusercontent.com/91827137/212969037-7719c235-5745-4997-b591-ac806d59ba36.png)
+
+`3.`
+![image](https://user-images.githubusercontent.com/91827137/212969327-12a1d989-509f-45fb-a9cf-f23e114ed78d.png)
+
+`4.`
+![image](https://user-images.githubusercontent.com/91827137/212969911-f62f36f2-91cd-4c75-86be-7305a453c894.png)
+
+## Loop Data Structures Part 1
+### Note that, dictionaries are inherently unordered
+`1.`
+![image](https://user-images.githubusercontent.com/91827137/212971833-ddd0e60b-c5e9-4735-af8c-a1fc176afe5e.png)
+
+`2.`
+![image](https://user-images.githubusercontent.com/91827137/212973351-01fff701-8c38-4e62-a5e6-fb0e42452d88.png)
+
+## Loop Data Structures Part 2
+`1.`
+![image](https://user-images.githubusercontent.com/91827137/212975165-0a5c30c0-65b1-4984-82a6-834e5d8d8e74.png)
+
+`2.`
